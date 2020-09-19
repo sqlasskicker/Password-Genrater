@@ -9,4 +9,4 @@ Random password generator for your social media accounts and websites
 * cd Password-Generater
 * python PASSGEN.py
 
-#PEACE
+# PEACE
