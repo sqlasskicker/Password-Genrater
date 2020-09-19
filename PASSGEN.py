@@ -39,3 +39,5 @@ while len(password) != length:
     if len(password) == length:
         print(" \033[32m [•] Your  Password: %s " % password)
 os.system("echo")
+print(" \033[32m STAY SAFE & SECURE")
+os.system("echo")
